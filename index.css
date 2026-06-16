@@ -839,8 +839,8 @@ body {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 300;
   font-size: 1.3rem;
-  letter-spacing: .45em;
-  text-transform: uppercase;
+  letter-spacing: .35em;
+  /* text-transform: uppercase; */
   color: var(--muted);
   margin-bottom: 32px;
 }
